@@ -95,10 +95,10 @@
         <key>Generic</key>
         <dict>
             <key>SystemProductName</key><string>MacBookPro15,2</string> <!-- 根据需求替换 -->
-            <key>SystemSerialNumber</key><string>REPLACE_ME_SERIAL</string>
-            <key>MLB</key><string>REPLACE_ME_MLB</string>
-            <key>SystemUUID</key><string>REPLACE_ME_SMUUID</string>
-            <key>ROM</key><string>REPLACE_ME_ROM</string>
+            <key>SystemSerialNumber</key><string>X390OS14SN00001</string>
+            <key>MLB</key><string>X390OS14MLB00001</string>
+            <key>SystemUUID</key><string>d3b07384-d9e1-4a2b-9a95-3f1b2c4d5e6f</string>
+            <key>ROM</key><string>00A0C914C82B</string>
         </dict>
     </dict>
 
