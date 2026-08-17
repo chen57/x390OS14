@@ -1,0 +1,8 @@
+注意：此处为占位说明文件。请不要把实际 BOOTx64.efi 二进制以文本形式放在仓库里。
+
+请在本地下载对应 OpenCore 发行版并把 BOOTx64.efi（或重命名的实际引导文件）放到本文件位置以替换此占位：
+EFI/BOOT/BOOTx64.efi
+
+示例（本地操作）：
+- 下载 OpenCore x.y.z release 并解压
+- 将 EFI/BOOT/BOOTx64.efi 复制到仓库的 EFI/BOOT/BOOTx64.efi

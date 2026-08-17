@@ -1,0 +1,15 @@
+# Ignore kext binaries by default (you can commit them if you want)
+EFI/OC/Kexts/*.kext
+EFI/OC/Kexts/*.zip
+EFI/OC/Kexts/*.tar.gz
+# macOS metadata
+.DS_Store
+# OS / editor
+.vscode/
+*.swp
+*.swo
+*.bak
+# Node
+node_modules/
+# Logs
+*.log
