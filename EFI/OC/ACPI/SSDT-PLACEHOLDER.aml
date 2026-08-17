@@ -1,4 +1,0 @@
-; SSDT 占位说明文件（二进制 AML 应为 .aml）
-; 本仓仅放说明占位，实际 SSDT 需要用 maciASL/SSDTTime/脚本生成并编译为 AML
-; 名称示例: SSDT-EC-USBX.aml, SSDT-PLUG.aml 等
-; 请在本地生成或下载对应的 SSDT 并放到此目录
